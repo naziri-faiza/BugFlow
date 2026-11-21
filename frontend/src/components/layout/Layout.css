@@ -1,0 +1,24 @@
+.layout {
+  min-height: 100vh;
+}
+
+.layout__main {
+  margin-left: var(--sidebar-width);
+  margin-top: var(--topbar-height);
+  min-height: calc(100vh - var(--topbar-height));
+  padding: 1.5rem;
+  background: var(--color-bg);
+  transition: margin-left var(--transition);
+}
+
+.layout__main--sidebar-collapsed {
+  margin-left: var(--sidebar-collapsed-width);
+}
+
+@media (max-width: 768px) {
+  .layout__main,
+  .layout__main--sidebar-collapsed {
+    margin-left: 0;
+    padding: 1rem;
+  }
+}
