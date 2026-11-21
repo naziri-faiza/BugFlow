@@ -199,31 +199,6 @@ Student teams and interns can track deliverables across multi-week milestones, d
 - **Path:** `docs/screenshots/09-issue-details.png`
 - **Description:** Full-page view of an individual issue showing metadata, editable Status and Priority dropdowns, reporter info, and full description.
 
-### 10. Search, Filter, and Sort Toolbar
-![Search and Filtering Toolbar](docs/screenshots/10-search-and-filtering.png)
-- **Path:** `docs/screenshots/10-search-and-filtering.png`
-- **Description:** Toolbar demonstrating real-time search by issue key/title, filtering by status (`To Do`, `In Progress`, `Done`), priority (`Low` to `Critical`), and sorting options.
-
-### 11. My Issues View
-![My Issues Page](docs/screenshots/11-my-issues.png)
-- **Path:** `docs/screenshots/11-my-issues.png`
-- **Description:** Tailored list view with a scope toggle enabling engineers to quickly switch between "Assigned to Me" and "All Team Issues".
-
-### 12. Issue Comments Thread
-![Comments Section](docs/screenshots/12-comments-section.png)
-- **Path:** `docs/screenshots/12-comments-section.png`
-- **Description:** Chronological comment stream beneath the issue description displaying author avatar initials, submission timestamps, and new comment submission input.
-
-### 13. Settings View
-![Settings Page](docs/screenshots/13-settings.png)
-- **Path:** `docs/screenshots/13-settings.png`
-- **Description:** Account settings interface displaying profile information, role indicators, notification preference toggles, and session logout actions.
-
-### 14. Responsive Layout (Mobile View)
-![Mobile Navigation Layout](docs/screenshots/14-mobile-responsive.png)
-- **Path:** `docs/screenshots/14-mobile-responsive.png`
-- **Description:** Responsive demonstration showing mobile navigation toggle, single-column data flows, and touch-friendly interface targets.
-
 ---
 
 ## 8. Application Workflow
